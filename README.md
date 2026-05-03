@@ -3,7 +3,11 @@
 
 A machine learning web app that predicts whether a person is at risk of heart disease based on their medical data. You can either check one patient at a time or upload a whole file with many patients and get results for all of them at once.
 
----
+## 🌐 Live Demo
+
+*Heart_Disease_Prediction* is deployed and running live!
+
+👉 *[Open Live Application](https://heartdiseaseprediction-g5dlgamtmpwfe2mxob2zam.streamlit.app/)*
 
 ## What This Project Does
 
