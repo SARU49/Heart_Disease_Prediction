@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ❤️ Heart Disease Prediction App
 
 A machine learning web app that predicts whether a person is at risk of heart disease based on their medical data. You can either check one patient at a time or upload a whole file with many patients and get results for all of them at once.
@@ -161,3 +162,7 @@ If you want to retrain the model from scratch:
 ## Note
 
 This app is built for learning and demo purposes. It should not be used as a replacement for actual medical advice or diagnosis. Always consult a doctor for health-related decisions.
+=======
+# Heart_Disease_Prediction
+Heart Disease Prediction App using Machine Learning
+>>>>>>> b2efd583b337d55d90ab72b6214e6d2c2b183b10
